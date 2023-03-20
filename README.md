@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <img align="center" alt="Kauan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Kauan-pic" height="150" style="border-r
+<img align="center" alt="Kauan-JS" height="30" width="40" src="https://icons8.com.br/icon/tGvHBPJaKqEd/javascript">
+
 
 </div>
   
