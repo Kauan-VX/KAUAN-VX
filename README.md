@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="center" alt="Kauan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Kauan-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kauan-Styled-Components" height="30" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png">
-  <img align="center" alt="Kauan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Kauan-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
 
 
 </div>
