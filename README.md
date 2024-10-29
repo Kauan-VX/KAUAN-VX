@@ -1,37 +1,31 @@
-### Olá, quem fala é o Kauan Vieira, estou graduando em Ciências da Computação!💻
+<h2 align="left">Techs</h2>
 
+###
 
-<!-- Tudo que vc poderá liberar com o tempo, vc é capaz!
-
-Here are some ideas to get you started:
-
-- 🔭 Estudante de Linguagens de Programação ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ele/dele
--->
-  <a href="https://github.com/Kauan-VX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauan-VX&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-VX&layout=compact&langs_count=7&theme=dark"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kauan-Sql" height="40" width="40" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png">
-<img align="center" alt="Kauan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Kauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Kauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Kauan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Kauan-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kauan-Styled-Components" height="30" width="40" src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png">
-  <img align="center" alt="Kauan-Angular" height="40" width="50" src="https://angular.io/assets/images/logos/angular/angular.svg">
 
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kauan-VX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kauan-VX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauan-VX&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-  
 
- 
-<div> 
-  <a href="https://instagram.com/kauankvx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kauanvieiraxavierk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-vieira-xavier-445205174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-</div>
+###
